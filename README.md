@@ -1,5 +1,7 @@
 # Getting Started
 
+This is an example of my code where I use technologies: Redux Toolkit, RTK query, Typescript
+
 ## Available Scripts
 
 In the project directory, you can run:
