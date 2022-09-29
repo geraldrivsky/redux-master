@@ -1,6 +1,6 @@
 # Getting Started
 
-This is an example of my code where I use technologies: React, Redux Toolkit, RTK query, Typescript.
+This is an example of my code where I use technologies: **React**, **Redux Toolkit**, **RTK query**, **Typescript**.
 
 The project is a list of posts that you can create, edit and delete yourself. The posts are on the backend, which is created using json-server.
 
