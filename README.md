@@ -1,6 +1,6 @@
 # Getting Started
 
-This is an example of my code where I use technologies: Redux Toolkit, RTK query, Typescript
+This is an example of my code where I use technologies: React, Redux Toolkit, RTK query, Typescript
 
 ## Available Scripts
 
@@ -8,11 +8,11 @@ In the project directory, you can run:
 
 ### `npm install -g json-server`
 
-Installs JSON Server
+Installs JSON Server.
 
 ### `json-server --watch db.json --port 5000`
 
-Starts JSON Server
+Starts JSON Server.
 
 ### `npm start`
 
