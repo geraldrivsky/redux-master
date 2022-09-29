@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sword",
+      "body": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Bow",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Spear",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "Shield",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "Axe",
+      "body": "typicode"
+    },
+    {
+      "title": "Warrior",
+      "body": "Warrior",
+      "id": 6
+    },
+    {
+      "title": "Assassin",
+      "body": "Assassin",
+      "id": 7
+    }
+  ]
+}
